@@ -5,7 +5,7 @@ bases:
 - ../../base
 
 
-namespace: hello-spring-dev
+namespace: hello-dev
 
 patches:
 - ./deployment-patches.yaml
