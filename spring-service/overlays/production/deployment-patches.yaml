@@ -7,4 +7,4 @@ spec:
     spec:
       containers:
       - name: hello-service
-        image: nexus-registry.nexus.svc:5000/hello-dev/hello-service:prod-2022-07-27-19-21-13
+        image: nexus-registry.nexus.svc:5000/hello-dev/hello-service:prod-2022-07-28-02-12-01
